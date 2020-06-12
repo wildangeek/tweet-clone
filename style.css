@@ -1,0 +1,20 @@
+.container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  input {
+    margin-bottom: 100px;
+  }
+  
+  #submit {
+    display: flex;
+    float: right;
+  }
+  
+  #array-tweet {
+    display: flex;
+    flex-direction: column;
+  }
